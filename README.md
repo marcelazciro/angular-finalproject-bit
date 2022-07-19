@@ -1,1 +1,3 @@
-# proyecto-final-bit
+# Final Project Bit
+
+Appi for pets developed with Angular.
